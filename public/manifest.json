@@ -1,5 +1,6 @@
 {
   "short_name": "React App",
+  "crossorigin" : "use-credentials",
   "name": "Create React App Sample",
   "icons": [
     {
